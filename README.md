@@ -1,2 +1,5 @@
 # nota_definitiva_asignatura
-Programa para realizar los operadores, usando las diferentes formulas
+Programa para calcular la nota definitiva de una asignatura en la Especialidad de Sistemas
+
+# Diagrama de Flujo
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
